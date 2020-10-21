@@ -1,2 +1,6 @@
-# AJamal
-Creating new web application that helps small organisation to make an accounting system
+# Univeristy Courses' Projects 
+## Computer vision LPR 
+## Natural Language Processing
+## data oriented design 
+## Data Engineering 
+## Big Data tools 
