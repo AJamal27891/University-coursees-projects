@@ -18,10 +18,10 @@ We will try XLnet and 3 other variations of BERT to to exceed the penchmark of t
 the reuslts were impressive regarding BERT varation although XLnet needs further research to adapt this task 
 ===============================================
  F1 Score | MG | DM | Ditto | Ours Best convbert | XLnet | Albert | DistilBert
- ---|---|---|---|---|---|---|---|---|
+ ---|---|---|---|---|---|---|---|
 structured[google amazon] | 49.1 | 70.7 | 75.7 | 89.5 | 66.66 | 69.767 | 87.18
---|---|---|---|---|---|---|---|---|
+---|---|---|---|---|---|---|---|
 textual [abt-buy] | 43.6 | 62.8 | 89.33 | 75.3 | 75.7 | 68.57 | 76.02
---|---|---|---|---|---|---|---|---|
+---|---|---|---|---|---|---|---|---|
 dirty [walmart-amazon] | 37.4 | 53.8 | 85.69 | 91.16 | 69 | 69.4 | 83.24
 
