@@ -1,9 +1,9 @@
 # Graduation project Repo 
 ## ECE595 graduation project spring 2021.
-===============================================
-__Name:__ __Ahmed Gamal Abouelfadl Hassan AHmed__
-__std,no:__ o827619008
-===============================================
+=====================================================================================
+- __Name:__ __Ahmed Gamal Abouelfadl Hassan AHmed__
+- __std,no:__ o827619008
+=========================================================================================
 Name Entity matching is a classical challenge for data integration and find similar enities within two differnt data sources. 
 the process for Entity matching stars with.
 
