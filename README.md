@@ -4,7 +4,7 @@
 - __Name:__ __Ahmed Gamal Abouelfadl Hassan AHmed__
 - __std,no:__ o827619008
 =========================================================================================
-Name Entity matching is a classical challenge for data integration and find similar enities within two differnt data sources. 
+\nName Entity matching is a classical challenge for data integration and find similar enities within two differnt data sources. 
 the process for Entity matching stars with.
 
 - 1- two differnt data sources,
