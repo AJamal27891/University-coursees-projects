@@ -6,11 +6,14 @@ __std,no:__ o827619008
 ===============================================
 Name Entity matching is a classical challenge for data integration and find similar enities within two differnt data sources. 
 the process for Entity matching stars with.
-- 1- two differnt data sources 
-- 2- Data preprocessing 
-- 3- Blocking 
-- 4- pairs comparison 
-- 5- classification 
+
+- 1- two differnt data sources,
+- 2- Data preprocessing.
+- 3- Blocking.
+- 4- pairs comparison.
+- 5- classification. 
+
+
 ================================================
 In this project we will explore the final part of the process classification part and leave the first part as future work 
 =================================================
