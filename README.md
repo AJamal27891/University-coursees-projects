@@ -22,9 +22,9 @@ the reuslts were impressive regarding BERT varation although XLnet needs further
 ===============================================
  F1 Score | MG | DM | Ditto | Ours Best convbert | XLnet | Albert | DistilBert
  ---|---|---|---|---|---|---|---|
-structured[google amazon] | 49.1 | 70.7 | 75.7 | 89.5 | 66.66 | 69.767 | 87.18
+structured[google amazon] | 49.1 | 70.7 | 75.7 | __89.5__ | 66.66 | 69.767 | 87.18
 ---|---|---|---|---|---|---|---|
-textual [abt-buy] | 43.6 | 62.8 | 89.33 | 75.3 | 75.7 | 68.57 | 76.02
+textual [abt-buy] | 43.6 | 62.8 | __89.33__ | 75.3 | 75.7 | 68.57 | 76.02
 ---|---|---|---|---|---|---|---|---|
-dirty [walmart-amazon] | 37.4 | 53.8 | 85.69 | 91.16 | 69 | 69.4 | 83.24
+dirty [walmart-amazon] | 37.4 | 53.8 | 85.69 | __91.16__ | 69 | 69.4 | 83.24
 
